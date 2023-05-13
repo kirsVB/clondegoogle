@@ -2,9 +2,9 @@
 
 ## ÍNDICE
 
-* [1. Intro](https://github.com/kirsVB/clondegoogle/edit/main/README.md#1-intro)
-* [2. Qué construí](https://github.com/kirsVB/clondegoogle/edit/main/README.md#2-qu%C3%A9-constru%C3%AD)
-* [Objetivo del proyecto](https://github.com/kirsVB/clondegoogle/edit/main/README.md#objetivo-del-proyecto)
+* [✨1. Intro](https://github.com/kirsVB/clondegoogle/edit/main/README.md#1-intro)
+* [✨2. Qué construí](https://github.com/kirsVB/clondegoogle/edit/main/README.md#2-qu%C3%A9-constru%C3%AD)
+* [✨Objetivo del proyecto](https://github.com/kirsVB/clondegoogle/edit/main/README.md#objetivo-del-proyecto)
 
 ****
 
@@ -23,4 +23,4 @@ En este proyecto me enfoqué en construir la clonacion de la interfaz de Google.
 * **Footer**: Seccion que incluye hipervínculos al final de la página.
 
 ## Objetivo del proyecto
-Aprender a utilizar las etiquetas de HTML y CSS3
+Aprender a utilizar las etiquetas estandar de HTML5 y los estilos de CSS3.
